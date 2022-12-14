@@ -1,0 +1,11 @@
+{
+  "name": "appnode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "serve.js",
+  "scripts": {
+    "start": "node serve.js"
+  },
+  "author": "Alfredo Mendoza Fuentes",
+  "license": "ISC"
+}
